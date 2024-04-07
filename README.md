@@ -10,7 +10,7 @@ Please use Python 3.6, opencv-contrib-python (3.4.0.12) and Pytorch (>= 1.1.0). 
 If you find the BCLNet code useful, please consider citing:
 
 ```bibtex
-@inproceedings{liu2023ncmnet,
+@inproceedings{miao2024bclnet,
   author    = {Xiangyang Miao, Guobao Xiao*, Shiping Wang and Jun Yu},
   title     = {BCLNet: Bilateral Consensus Learning for Two-View Correspondence Pruning},
   booktitle = {Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI)},
